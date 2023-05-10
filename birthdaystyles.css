@@ -1,0 +1,30 @@
+h1 {
+    color: black;
+  }
+
+h2 {
+    color: black;
+  }
+
+head {
+
+    text-align: center;
+    
+    }
+
+body {
+
+    text-align: center;
+    
+    }
+
+div.WhatToBring {
+        text-align: center;
+      }
+      
+ul.WhatToBring {
+        display: inline-block;
+        text-align: left;
+      }
+
+      
